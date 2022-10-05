@@ -1,0 +1,2 @@
+Link para downloado do Git: https://github.com/FredMarwin/dio-desafio-github-primeiro-repositorio.git
+O Git Bash é um terminal extendido para otimizar o uso do Git.
